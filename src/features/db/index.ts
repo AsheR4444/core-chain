@@ -105,4 +105,4 @@ const getShuffledWallets = async () => {
   return shuffleArray(wallets)
 }
 
-export { createDatabase, DB, getEvmWallet, getNextWallet, getShuffledWallets, getTestWallet, getWallet, getWallets, updateExpired, updateNextActionDate,Wallet }
+export { createDatabase, DB, getEvmWallet, getNextWallet, getShuffledWallets, getTestWallet, getWallet, getWallets, updateExpired, updateNextActionDate, Wallet }
